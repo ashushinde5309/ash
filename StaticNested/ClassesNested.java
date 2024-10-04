@@ -18,7 +18,7 @@ class OuterClass
 		}
 		
 	}
-	}
+}
 
 public class ClassesNested 
 {
